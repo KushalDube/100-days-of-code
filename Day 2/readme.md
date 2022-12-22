@@ -22,6 +22,9 @@
 - I've gone through lessons on java arrays and CDC java course
 
 **Questions**:
-1. [GFG](https://auth.geeksforgeeks.org/user/kushaldube02/) - 1
-2. [Hackerrank](https://www.hackerrank.com/KushalDube) - 0
-3. CDC Assessment (Keywords and variables) 
+1. [Leetcode](https://leetcode.com/KushalDube/) - 1
+    - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+2. [GFG](https://auth.geeksforgeeks.org/user/kushaldube02/) - 1
+    - [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416)
+3. [Hackerrank](https://www.hackerrank.com/KushalDube) - 0
+4. CDC Assessment (Keywords and variables) 
