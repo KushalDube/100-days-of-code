@@ -1,6 +1,8 @@
 # 100_Days_Of_Code
 Repository for the #100daysofcode journey and to keep myself accountable
-
+<br>
+<br>
+<br>
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
