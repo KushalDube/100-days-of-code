@@ -22,7 +22,7 @@
 - I've gone through lessons on java arrays and CDC java course
 
 **Questions**:
-1. [GFG](https://auth.geeksforgeeks.org/user/kushaldube02/) - 2
+1. [GFG](https://auth.geeksforgeeks.org/user/kushaldube02/) - 1
 2. [Hackerrank](https://www.hackerrank.com/KushalDube) - 1
 3. CDC Practice Test (Keywords and variables) 
 
