@@ -16,7 +16,7 @@
 **Link to work:**
 -->
 
-## Day 6: Dec 27, 2022
+## Day 7: Dec 27, 2022
 
 **Today's Progress**:
 - Solved 1 question and attempted test on CDC platform
