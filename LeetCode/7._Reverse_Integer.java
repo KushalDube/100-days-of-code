@@ -10,7 +10,7 @@ class Solution {
             if(ans<Integer.MIN_VALUE || ans>Integer.MAX_VALUE){
                 return 0;
             }
-        }g
+        }
         System.out.println(x);
         System.out.println(ans);
         return (int)ans;
