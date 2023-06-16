@@ -5,10 +5,6 @@ class Solution {
         System.arraycopy(nums2,0,arr,nums1.length,nums2.length);
         Arrays.sort(arr);
 
-        // for(int i=0; i<arr.length; i++){
-        //     System.out.print(arr[i]+",");
-        // }
-
         if(arr.length%2!=0){
             return arr[arr.length/2];
         } else {
