@@ -14,6 +14,5 @@ class Solution {
         System.out.println(x);
         System.out.println(ans);
         return (int)ans;
-
     }
 }
