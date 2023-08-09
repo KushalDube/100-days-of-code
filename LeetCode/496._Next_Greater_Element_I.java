@@ -1,5 +1,4 @@
 class Solution {
-
     public int great(int n, int start, int arr[]) {
         for(int i=start; i<arr.length; i++){
             if(arr[i]>n){
