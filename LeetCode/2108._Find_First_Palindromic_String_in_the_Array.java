@@ -10,7 +10,6 @@ class Solution {
         if(str.equals(rev)){
             return true;
         } else {
-            System.out.print(rev+" ");
             return false;
         }
     }
