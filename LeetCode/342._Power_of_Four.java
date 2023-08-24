@@ -6,7 +6,6 @@ class Solution {
         if(n==1 || n==4) {
             return true;
         }
-
         while (n>1) {
             int r=n%4;
             if(r!=0) {
