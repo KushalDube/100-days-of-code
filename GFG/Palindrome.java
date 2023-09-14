@@ -13,7 +13,6 @@ class Solution
             return "Yes";
         } else {
             return "No";
-        }
-        
+        } 
     }
 }
