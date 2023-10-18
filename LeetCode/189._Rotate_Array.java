@@ -1,9 +1,5 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-
-        // for(int i=Math.abs(nums.length-k), j=0; j<nums.length; j++){
-        //     System.out.print(nums[i]+", ");
-        //     arr[j]=nums[i];
         //     i=(i+1)%nums.length;
         // }
         // System.arraycopy(arr, 0, nums, 0, nums.length);
